@@ -1,0 +1,6 @@
+/home/juo/clion-2021.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/juo/CLionProjects/thread
+OPENCV VERSION:
+3.4.15
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/juo/CLionProjects/thread/cmake-build-debug

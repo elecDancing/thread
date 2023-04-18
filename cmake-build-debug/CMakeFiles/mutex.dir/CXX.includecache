@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juo/CLionProjects/thread/mutex.cpp
+iostream
+-
+unistd.h
+-
+thread
+-
+mutex
+-
+vector
+-
+

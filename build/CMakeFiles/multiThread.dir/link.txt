@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -pthread  -shared -Wl,-soname,libmultiThread.so -o libmultiThread.so CMakeFiles/multiThread.dir/ORBextractor.cc.o CMakeFiles/multiThread.dir/ORBextractor.cpp.o 

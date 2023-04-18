@@ -1,0 +1,6 @@
+/home/juo/CLionProjects/thread/build/CMakeFiles/rebuild_cache.dir
+/home/juo/CLionProjects/thread/build/CMakeFiles/mutex.dir
+/home/juo/CLionProjects/thread/build/CMakeFiles/ORB.dir
+/home/juo/CLionProjects/thread/build/CMakeFiles/multiThread.dir
+/home/juo/CLionProjects/thread/build/CMakeFiles/edit_cache.dir
+/home/juo/CLionProjects/thread/build/CMakeFiles/main.dir

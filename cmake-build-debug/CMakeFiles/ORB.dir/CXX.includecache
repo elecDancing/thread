@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juo/CLionProjects/thread/ORBextractor.cpp
+ORBextractor.h
+/home/juo/CLionProjects/thread/ORBextractor.h
+iostream
+-
+opencv/cv.hpp
+-
+opencv2/opencv.hpp
+-
+
+/home/juo/CLionProjects/thread/ORBextractor.h
+vector
+-
+list
+-
+opencv2/opencv.hpp
+-
+

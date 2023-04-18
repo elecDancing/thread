@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread   CMakeFiles/ORB.dir/ORBextractor.cpp.o  -o ORB 
