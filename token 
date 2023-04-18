@@ -1,0 +1,5 @@
+//这里保存的是上传github所需要的token令牌
+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
+
+//push之前需要使用这条命令
+git remote set-url origin https://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@github.com/elecDancing/thread.git
